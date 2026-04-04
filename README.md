@@ -10,7 +10,7 @@ The goal of this project is to build a visual analytics dashboard that clearly p
 
 📷 Dashboard Preview
 
-![Dashboard](dashboard1.png)
+![Dashboard](dashboard 1.png)
 
 📊 Key Metrics
 The dashboard highlights important business KPIs such as:
