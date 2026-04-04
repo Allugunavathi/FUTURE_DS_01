@@ -14,7 +14,6 @@ The goal of this project is to build a visual analytics dashboard that clearly p
 (dashboard 1.png)
 
 📊 Key Metrics
-
 The dashboard highlights important business KPIs such as:
 
 Total Sales: 2.30M
@@ -28,7 +27,6 @@ Total Orders: 5009
 Average Discount: 0.16
 
 🔍 Key Insights
-
 Consumer Segment generates the highest sales contribution.
 
 Technology Category contributes the highest profit.
@@ -40,7 +38,6 @@ Certain sub-categories show declining profit trends.
 West Region contributes the highest share of total sales.
 
 📈 Visualizations Used
-
 The dashboard includes multiple data visualization techniques:
 
 KPI Cards (Sales, Profit, Orders, Quantity)
