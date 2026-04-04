@@ -10,7 +10,7 @@ The goal of this project is to build a visual analytics dashboard that clearly p
 
 📷 Dashboard Preview
 
-![Sales performance and profit analysis](dashboard1.png)
+[![Sales performance and profit analysis](dashboard1.png)](https://your-dashboard-link)
 
 📊 Key Metrics
 The dashboard highlights important business KPIs such as:
