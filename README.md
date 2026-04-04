@@ -41,19 +41,27 @@ Funnel Chart – Profit by Category
 🛠 Tools & Technologies
 
 Power BI
+
 Data Visualization
+
 Data Analysis
+
 Business Intelligence
 
 📚 Key Learnings
 
 Designing interactive dashboards
+
 Creating meaningful KPIs
+
 Using different visualizations for insights
+
 Improving storytelling using data
 
 🚀 Future Improvements
 
 Add customer churn analysis
+
 Create time-based sales trend analysis
+
 Include predictive sales forecasting
