@@ -10,6 +10,7 @@ Businesses often generate large volumes of sales data, but extracting meaningful
 The goal of this project is to build a visual analytics dashboard that clearly presents sales performance, customer behavior, and profit distribution.
 
 📷 Dashboard Preview
+
 [Sales performance and profit analysis](dashboard 1.png)
 
 📊 Key Metrics
