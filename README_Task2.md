@@ -88,5 +88,4 @@ Creating KPI-driven analytics dashboards
 This dashboard helps businesses understand customer churn behavior, revenue patterns, and service usage trends, enabling better data-driven decision-making to improve customer retention strategies.
 
 📷 Dashboard Preview
-
 ![Dashboard](dashboard2.png)
