@@ -57,6 +57,7 @@ Analyzing customer segments and category performance
 [Dashboard](dashboard1.png)
 
 🚀Future Improvements
+
 Add region-wise sales analysis
 Include forecasting and predictive analytics
 Create drill-through pages for detailed analysis
